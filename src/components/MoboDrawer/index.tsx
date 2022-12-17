@@ -32,7 +32,7 @@ const MoboDrawer = ({ toggleDrawer, isOpen }: any) => {
                 className="!w-[100%] "
                 style={{ backgroundColor: "#202020" }}
             >
-                <div className="w-[100%]  h-screen  px-[16px]  drawer container1 mx-auto text-white bg-[#070328]">
+                <div className="w-[100%]   px-[16px] h-screen drawer drawer container1 mx-auto text-white bg-[#070328]">
                     <div className="container2 ">
                         <div className="flex justify-between px-[16px] py-[16px]">
                             <img
