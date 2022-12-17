@@ -42,7 +42,7 @@ const GetStarted = (): JSX.Element => {
                             level up!
                         </span>
                     </h2>
-                    <button className="w-[230px] h-[44px] md:h-[48px] 2xl:h-[56px] text-[16px]  leading-[24px] font-medium bg-gradient-to-tr from-[#DD2590] to-[#7A5AF8] rounded-[32px] mt-[24px] md:mt-[30px] 2xl:mt-[46px]">
+                    <button className="w-[100%] xs:w-[230px] h-[44px] md:h-[48px] 2xl:h-[56px] text-[16px]  leading-[24px] font-medium bg-gradient-to-tr from-[#DD2590] to-[#7A5AF8] rounded-[32px] mt-[24px] md:mt-[30px] 2xl:mt-[46px]">
                         Get Started
                     </button>
                 </div>

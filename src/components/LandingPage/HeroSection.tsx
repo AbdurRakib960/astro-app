@@ -38,7 +38,7 @@ const HeroSection = (): JSX.Element => {
                 />
             </div>
             <div className="relative md:w-[765px] mx-auto">
-                <p className="w-[100%] xs:w-[343px] md:w-[359px]  mt-[20px] md:mt-[24px] 2xl:mt-[53px] mx-auto text-[#FFFFFF] font-normal text-[14px] md:text-[16px] md:leading-[24px] leading-[20px] text-center 2xl:text-[18px] 2xl:leading-[28px] 2xl:w-[430px]">
+                <p className="w-[100%] xs:w-[343px] md:w-[359px]  mt-[20px] md:mt-[24px] 2xl:mt-[53px] mx-auto text-[#FFFFFF] font-normal text-[14px] md:text-[16px] md:leading-[24px] leading-[20px] text-center 2xl:text-[18px] 2xl:leading-[28px] 2xl:w-[430px] px-[10px] xs:px-0">
                     Generate unlimited, high-quality creations quickly for all
                     your gaming needs with the community... the possibilities
                     are endless!

@@ -28,7 +28,9 @@ const LandingNav = (): JSX.Element => {
                     </button>
                 </div>
             </div>
-            <MoboDrawer isOpen={isOpen} toggleDrawer={toggleDrawer} />
+            <div className="md:hidden">
+                <MoboDrawer isOpen={isOpen} toggleDrawer={toggleDrawer} />
+            </div>
         </>
     );
 };

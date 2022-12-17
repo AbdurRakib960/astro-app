@@ -29,7 +29,7 @@ const MoboDrawer = ({ toggleDrawer, isOpen }: any) => {
                 open={isOpen}
                 onClose={toggleDrawer}
                 direction="left"
-                className="!w-[100%] "
+                className="!w-[100%] sm:!w-[375px]"
                 style={{ backgroundColor: "#202020" }}
             >
                 <div className="w-[100%]   px-[16px] h-screen drawer drawer container1 mx-auto text-white bg-[#070328]">

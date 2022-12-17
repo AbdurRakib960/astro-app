@@ -20,7 +20,7 @@ const StepThree = (): JSX.Element => {
                 <h2 className="font-bold 2xl:text-[48px] md:text-[24px] text-[24px] leading-[32px] 2xl:leading-[60px] text-white mx-auto md:mx-0">
                     You’re done!
                 </h2>
-                <p className="md:mx-0 font-normal 2xl:text-[18px] md:text-[16px] md:leading-[24px] 2xl:leading-[28px] mt-[12px] md:mt-[10px]  text-[14px] leading-[20px] text-center md:text-left w-[343px] md:w-[100%]">
+                <p className="md:mx-0 font-normal 2xl:text-[18px] md:text-[16px] md:leading-[24px] 2xl:leading-[28px] mt-[12px] md:mt-[10px]  text-[14px] leading-[20px] text-center md:text-left  md:w-[100%] px-[10px] xs:px-0">
                     Download and share your unique assets! The original mod
                     creators are always attributed, so you can feel confident
                     with the asset you own.
@@ -31,7 +31,7 @@ const StepThree = (): JSX.Element => {
                 <img
                     src="/images/step-threeimage.png"
                     alt=""
-                    className=" 2xl:h-[335px]  md:h-[224px]  h-[224px] w-[100%] mx-auto md:mx-0"
+                    className=" 2xl:h-[335px]  md:h-[224px]  h-[224px] w-[100%] mx-auto md:mx-0 px-[10px] xs:px-0"
                 />
             </div>
         </div>
